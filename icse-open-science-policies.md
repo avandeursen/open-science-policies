@@ -5,7 +5,6 @@ The text below is based on v0.9.9 of these policies.
 
 [sigsoft]: https://www.sigsoft.org
 [policies]: https://github.com/acmsigsoft/open-science-policies
-[icse-policies]: 
 
 ## Open science policies
 
@@ -54,7 +53,7 @@ A step-by-step approach to disclosing artifacts for (double-blind) peer review a
 
 A step-by-step approach to automatically archive a GitHub repository to Zenodo.org is available at [https://guides.github.com/activities/citable-code/](https://guides.github.com/activities/citable-code/).
 
-A step-by-step approach to automatically archive a GitHub repository to figshare.com is available at [https://knowledge.figshare.com/articles/item/how-to-connect-figshare-with-your-github-account-1](https://knowledge.figshare.com/articles/item/how-to-connect-figshare-with-your-github-account-1).
+A step-by-step approach to automatically archive a GitHub repository to figshare.com is available at [https://knowledge.figshare.com/articles/item/how-to-connect-figshare-with-your-github-account](https://knowledge.figshare.com/articles/item/how-to-connect-figshare-with-your-github-account).
 
 A proposal for artifact evaluation by SIGSOFT is available at [https://github.com/acmsigsoft/artifact-evaluation](https://github.com/acmsigsoft/artifact-evaluation).
 
